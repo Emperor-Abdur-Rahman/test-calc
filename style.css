@@ -9,7 +9,7 @@ body {
     border-radius: 5px;
     max-width: 300px;
     margin: 0 auto;
-    color: aqua;
+    color: rgba(146, 8, 8, 0.712);
 }
 
 label {
