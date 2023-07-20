@@ -9,6 +9,7 @@ body {
     border-radius: 5px;
     max-width: 300px;
     margin: 0 auto;
+    color: aqua;
 }
 
 label {
